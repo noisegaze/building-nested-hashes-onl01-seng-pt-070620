@@ -9,6 +9,8 @@ def fourth_challenge
           :name => "Mercutio",
           :age => "17",
           :attitude => "worried"
+        },{
+          
         }
       ]
    }, 
